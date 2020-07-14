@@ -1,12 +1,6 @@
-# 云开发 quickstart
+专注小时种：绿油油的，令人无法自拔。
 
-这是云开发的快速启动指引，其中演示了如何上手使用云开发的三大基础能力：
+使用一丢丢云开发。
 
-- 数据库：一个既可在小程序前端操作，也能在云函数中读写的 JSON 文档型数据库
-- 文件存储：在小程序前端直接上传/下载云端文件，在云开发控制台可视化管理
-- 云函数：在云端运行的代码，微信私有协议天然鉴权，开发者只需编写业务逻辑代码
-
-## 参考文档
-
-- [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
+[![fswro.th.png](https://cdn.img.wenhairu.com/images/2020/07/14/fswro.th.png)](https://img.wenhairu.com/image/fswro) [![fsfg3.th.png](https://cdn.img.wenhairu.com/images/2020/07/14/fsfg3.th.png)](https://img.wenhairu.com/image/fsfg3) [![fsJCf.th.png](https://cdn.img.wenhairu.com/images/2020/07/14/fsJCf.th.png)](https://img.wenhairu.com/image/fsJCf) [![fsKRd.th.png](https://cdn.img.wenhairu.com/images/2020/07/14/fsKRd.th.png)](https://img.wenhairu.com/image/fsKRd)
 

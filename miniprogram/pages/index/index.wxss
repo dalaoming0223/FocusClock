@@ -62,7 +62,7 @@
 }
 .clock {
   overflow: hidden;
-  background: #E7624F;
+  background: #00b894;
 }
 .progress {
   width: 400rpx;
